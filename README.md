@@ -1,4 +1,6 @@
 **Psoriasis Skin Disease Classification**
+
+
 This project focuses on building a machine learning model to classify skin images as either Normal or Diseased (Psoriasis). The model was developed using a Convolutional Neural Network (CNN) implemented in Python with TensorFlow and Keras, and trained using Google Colab.
 
 **📁 Dataset**
